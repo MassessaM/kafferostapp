@@ -1,4 +1,4 @@
-const CACHE_NAME = 'masse-coffee-v1';
+const CACHE_NAME = 'masse-coffee-v2';
 
 const APP_FILES = [
   './',
