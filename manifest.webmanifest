@@ -1,0 +1,18 @@
+{
+  "name": "Masse Coffee Roasting Program",
+  "short_name": "Masse Coffee",
+  "description": "Professionell loggning och jämförelse av kafferostningar.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2efe8",
+  "theme_color": "#26342c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
